@@ -1,3 +1,5 @@
+Please review the exercise1.ipynb file for most applicable execution of exercise 1.
+
 # Warmup
 
 Download the [Wine Quality
